@@ -1,4 +1,8 @@
 /* reset */
+* @page {
+            size: letter;
+            margin: 1in;
+        }
 * {
     box-sizing: content-box;
     color: inherit;
